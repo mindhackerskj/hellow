@@ -2,6 +2,8 @@
 #include<conio.h>
 void main()
 {
-printf("");
+printf("Hello");
+printf("World");
+printf("Have a nice day");
 getch();
 }
